@@ -22,5 +22,16 @@
       "price": 16
     }
   ],
-  "requests": []
+  "requests": [
+    {
+      "name": "fdhgfdfh",
+      "phone": "dhdh",
+      "id": 1
+    },
+    {
+      "name": "fgdf",
+      "phone": "fghdfh",
+      "id": 2
+    }
+  ]
 }
